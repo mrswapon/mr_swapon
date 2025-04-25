@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Restaurant_Service_App](https://github.com/mrswapon/Restaurant)
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently working on **Flutter Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrswapon?tab=repositories](https://github.com/mrswapon?tab=repositories)
 
