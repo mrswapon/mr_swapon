@@ -39,7 +39,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/shahnowaz-swapon-74b8aa2a1" target="_blank">
+<a href="[https://linkedin.com/in/mrswapon/)" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://twitter.com/shahnowaz.swapon" target="_blank">
