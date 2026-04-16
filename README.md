@@ -39,7 +39,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="[https://linkedin.com/in/mrswapon/)" target="_blank">
+<a href="https://www.linkedin.com/in/mrswapon/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://twitter.com/shahnowaz.swapon" target="_blank">
@@ -97,7 +97,7 @@
 
 ### 🎯 Goals (2026)
 
-- 🚀 Become a **Flutter Developer**
+- 🚀 Become a **Mid-Level Flutter Developer**
 - 📱 Build scalable production apps
 - 🌍 Work with international clients
 - 💼 Improve problem-solving & system design skills
