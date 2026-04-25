@@ -97,7 +97,7 @@
 
 ### 🎯 Goals (2026)
 
-- 🚀 Become a **Mid-Level Flutter Developer**
+- 🚀 Become a **Senior Flutter Developer**
 - 📱 Build scalable production apps
 - 🌍 Work with international clients
 - 💼 Improve problem-solving & system design skills
