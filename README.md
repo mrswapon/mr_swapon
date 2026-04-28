@@ -12,17 +12,42 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **Restaurant Service App**
-- 🌱 Learning & building with **Flutter & Clean Architecture**
-- 💡 Interested in **Mobile App Development & Scalable Systems**
-- 💬 Ask me about **Flutter, Dart, Firebase, HTML, CSS, JavaScript**
+- 💼 2.5+ years of experience in **Flutter Mobile App Development**
+- 🌱 Building scalable apps using **Clean Architecture, MVVM & REST APIs**
+- 📱 Skilled in **Flutter, Dart, Firebase (Auth, Firestore, FCM)**
+- 🧠 Strong knowledge of **State Management (Bloc, Provider, GetX, Riverpod)**
+- 🌐 Familiar with **Backend Integration & API Handling**
+- 💻 Also experienced in **HTML, CSS & Java**
+- 🛠️ Tools I use: **Git, GitHub, Android Studio, VS Code**
+- 💡 Interested in **Mobile App Development, System Design & Scalable Solutions**
+- 💬 Ask me about **Dart, Flutter, App Architecture, Firebase & UI/UX**
 - 📫 Reach me at **mrswapon15@gmail.com**
-- ⚡ Fun fact: *Everything can be learned in a fun way 😄*
+- ⚡ Fun fact: *I believe coding becomes easy when you enjoy the process 😄*
 
 ---
 
 ### 🚀 My Projects
 
-- 🍽️ [Restaurant Service App](https://github.com/mrswapon/Restaurant)
+- 🚶‍♂️ [Walkie | iOS – App Store](https://apps.apple.com/us/app/walkie/id6743860647)  
+  **Tech Stack:** Flutter, Firebase, Socket.IO  
+  Real-time social communication app with instant messaging and live user interactions.
+
+- 🔍 [Guide Gadget | iOS – App Store](https://apps.apple.com/us/app/guide-gadget/id6741350291) | [Android – Play Store](https://play.google.com/store/apps/details?id=com.guidegadget.app)  
+  **Tech Stack:** Flutter, Dart, RESTful API  
+  Smart gadget discovery platform for comparing and exploring the latest tech products.
+
+- ❤️ [Ndolo Dating App | Android – Play Store](https://play.google.com/store/apps/details?id=com.ndolo.ndolo_dating)  
+  **Tech Stack:** Flutter, Firebase Auth, Firestore, Push Notifications  
+  Dating platform with intelligent matching algorithms, real-time notifications, and secure authentication.
+
+- 🎣 [Perfect Catch | Android – Play Store](https://play.google.com/store/apps/details?id=com.vaine.perfectcatch)  
+  **Tech Stack:** Flutter, Socket.IO, WebRTC, Firebase  
+  Feature-rich dating app with real-time chat and live video calling.
+
+- 🧺 [Fouta | iOS – App Store](https://apps.apple.com/us/app/fouta/id6749207732)  
+  **Tech Stack:** Flutter, Firebase, REST API  
+  Cross-platform iOS app built and shipped using Flutter and Dart.
+
 - 📂 [All Projects](https://github.com/mrswapon?tab=repositories)
 
 ---
@@ -30,7 +55,7 @@
 ### 📄 Resume & Experience
 
 <p align="left">
-  📑 <a href="https://drive.google.com/file/d/1QpB2Y_k7X0Tka8DatXBB9Vk3y7FuxcPS/view?usp=sharing" target="_blank">
+  📑 <a href="https://drive.google.com/file/d/1gecwXFXZ7INZKKw6NWBl6nlPwRcIR4Li/view?usp=sharing" target="_blank">
   View My Resume</a>
 </p>
 
@@ -73,26 +98,35 @@
 <br/>
 
 <!-- Tools & Platforms -->
-<img src="https://skillicons.dev/icons?i=git,github,gcp,androidstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,vscode,postman" />
+
+<br/>
+
+<!-- Additional Tools -->
+<img src="https://skillicons.dev/icons?i=apple" title="Xcode" height="48"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/>
 
 </p>
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrswapon&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrswapon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrswapon&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=mrswapon&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrswapon&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrswapon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrswapon&theme=tokyonight" />
+</p>
 ---
 
 ### 🎯 Goals (2026)
