@@ -47,6 +47,10 @@ Perfect Catch is a feature-rich dating app with real-time chat and live video ca
 - 🧺 [Fouta | iOS – App Store](https://apps.apple.com/us/app/fouta/id6749207732)  
   **Tech Stack:** Flutter, Firebase, REST API  
   Fouta is a community-driven platform dedicated to uplifting the Black community by fostering connection, supporting economic empowerment, and creating growth opportunities.
+
+- 💄 [TNP Beauty | iOS – App Store](https://apps.apple.com/us/app/the-noire-places/id6761523428) | [Android – Play Store](https://play.google.com/store/apps/details?id=com.annadat.tnp)  
+  **Tech Stack:** Flutter, Firebase, REST API  
+TNP Beauty is an all-in-one platform for the Afro diaspora that seamlessly connects users with at-home beauty services and authentic hair, skin, and beauty products from verified local and international vendors.
   
 - 📂 [All Projects](https://github.com/mrswapon?tab=repositories)
 
