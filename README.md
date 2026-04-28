@@ -64,21 +64,27 @@
 ### 🌐 Connect with Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/mrswapon/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
+
 <a href="https://twitter.com/shahnowaz.swapon" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
 </a>
+
 <a href="https://facebook.com/shahnowaz.swapon" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  <img src="https://img.icons8.com/color/48/facebook-new.png" height="45" alt="facebook"/>
 </a>
+
 <a href="https://instagram.com/shahnowaz_swapon" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
 </a>
+
 <a href="mailto:mrswapon15@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
+
 </p>
 
 ---
