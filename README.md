@@ -30,24 +30,24 @@
 
 - 🚶‍♂️ [Walkie | iOS – App Store](https://apps.apple.com/us/app/walkie/id6743860647)  
   **Tech Stack:** Flutter, Firebase, Socket.IO  
-  Real-time social communication app with instant messaging and live user interactions.
+Walkie is a social fitness app that helps you connect, chat, and exercise with nearby people who share your interests, featuring location-based discovery, privacy controls, and premium plans for extended reach.
 
 - 🔍 [Guide Gadget | iOS – App Store](https://apps.apple.com/us/app/guide-gadget/id6741350291) | [Android – Play Store](https://play.google.com/store/apps/details?id=com.guidegadget.app)  
   **Tech Stack:** Flutter, Dart, RESTful API  
-  Smart gadget discovery platform for comparing and exploring the latest tech products.
+Guide Gadget is an all-in-one operations management platform for tour and charter companies that streamlines equipment, fleet, and employee tracking—with customizable checklists, maintenance logs, compliance reminders, and incident reporting—to ensure safety, accountability, and seamless record-keeping in one secure place.
 
 - ❤️ [Ndolo Dating App | Android – Play Store](https://play.google.com/store/apps/details?id=com.ndolo.ndolo_dating)  
   **Tech Stack:** Flutter, Firebase Auth, Firestore, Push Notifications  
-  Dating platform with intelligent matching algorithms, real-time notifications, and secure authentication.
+Ndolomeet is a culturally-rooted African dating app—made by Africans, for Africans—that combines intelligent matching, real-time notifications, and secure authentication to help singles in Cameroon, across the continent, and in the diaspora find love grounded in shared values, tradition, and authentic connection.
 
 - 🎣 [Perfect Catch | Android – Play Store](https://play.google.com/store/apps/details?id=com.vaine.perfectcatch)  
   **Tech Stack:** Flutter, Socket.IO, WebRTC, Firebase  
-  Feature-rich dating app with real-time chat and live video calling.
+Perfect Catch is a feature-rich dating app with real-time chat and live video calling, using smart matching to help you easily find meaningful connections—whether for love, friendship, or casual chat—with like-minded people nearby.
 
 - 🧺 [Fouta | iOS – App Store](https://apps.apple.com/us/app/fouta/id6749207732)  
   **Tech Stack:** Flutter, Firebase, REST API  
-  Cross-platform iOS app built and shipped using Flutter and Dart.
-
+  Fouta is a community-driven platform dedicated to uplifting the Black community by fostering connection, supporting economic empowerment, and creating growth opportunities.
+  
 - 📂 [All Projects](https://github.com/mrswapon?tab=repositories)
 
 ---
