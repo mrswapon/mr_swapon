@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Md. Swapon Mia</h1>
-<h3 align="center">Flutter Developer | Passionate Software Engineer from Bangladesh 🇧🇩</h3>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0020,50:4b0e4f,100:2d0838&height=200&section=header&text=Md.%20Swapon%20Mia&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Mobile%20Engineer&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<div align="center">
+  
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4b0e4f&center=true&vCenter=true&width=700&lines=Flutter+Developer+%7C+2.5%2B+Years+Experience;5%2B+Live+Apps+on+App+Store+%26+Play+Store;Clean+Architecture+%7C+Riverpod+%7C+Bloc+%7C+GetX;Firebase+%7C+Socket.IO+%7C+WebRTC+Expert;Available+for+Remote+%26+On-site+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mrswapon&label=Profile%20views&color=0e75b6&style=flat" alt="mrswapon" />
-</p>
+<div align="left">
+
+---
+
+## 🧑‍💼 Professional Summary
+
+<br clear="right"/>
+
+> **Flutter Developer** with **2.5+ years** of experience building and shipping production-ready cross-platform mobile apps for iOS and Android. Delivered **5+ live apps** on the App Store and Google Play Store. Skilled in **Clean Architecture**, **Riverpod/GetX/Bloc**, **REST APIs**, **Firebase**, **Socket.IO**, **WebRTC**, and payment gateways (**Stripe**, **RevenueCat**, **Amar Pay**). Available immediately for **remote or on-site roles**.
 
 ---
 
@@ -132,4 +144,5 @@ TNP Beauty is an all-in-one platform for the Afro diaspora that seamlessly conne
 - 🌍 Work with international clients
 - 💼 Improve problem-solving & system design skills
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0020,50:4b0e4f,100:2d0838&height=120&section=footer&animation=fadeIn" width="100%"/>
+
