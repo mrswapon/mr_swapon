@@ -4,7 +4,7 @@
   
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4b0e4f&center=true&vCenter=true&width=700&lines=Flutter+Developer+%7C+2.5%2B+Years+Experience;5%2B+Live+Apps+on+App+Store+%26+Play+Store;Clean+Architecture+%7C+Riverpod+%7C+Bloc+%7C+GetX;Firebase+%7C+Socket.IO+%7C+WebRTC+Expert;Available+for+Remote+%26+On-site+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4b0e4f&center=true&vCenter=true&width=700&lines=Flutter+Developer+%7C+2.5%2B+Years+Experience;6%2B+Live+Apps+on+App+Store+%26+Play+Store;Clean+Architecture+%7C+Riverpod+%7C+Bloc+%7C+GetX;Firebase+%7C+Socket.IO+%7C+WebRTC+Expert;Available+for+Remote+%26+On-site+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <div align="left">
