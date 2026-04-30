@@ -15,7 +15,7 @@
 
 <br clear="right"/>
 
-> **Flutter Developer** with **2.5+ years** of experience building and shipping production-ready cross-platform mobile apps for iOS and Android. Delivered **5+ live apps** on the App Store and Google Play Store. Skilled in **Clean Architecture**, **Riverpod/GetX/Bloc**, **REST APIs**, **Firebase**, **Socket.IO**, **WebRTC**, and payment gateways (**Stripe**, **RevenueCat**, **Amar Pay**). Available immediately for **remote or on-site roles**.
+> **Flutter Developer** with **2.5+ years** of experience building and shipping production-ready cross-platform mobile apps for iOS and Android. Delivered **6+ live apps** on the App Store and Google Play Store. Skilled in **Clean Architecture**, **Riverpod/GetX/Bloc**, **REST APIs**, **Firebase**, **Socket.IO**, **WebRTC**, and payment gateways (**Stripe**, **RevenueCat**, **Amar Pay**). Available immediately for **remote or on-site roles**.
 
 ---
 
