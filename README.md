@@ -61,6 +61,10 @@ Perfect Catch is a feature-rich dating app with real-time chat and live video ca
 - 💄 [TNP Beauty | iOS – App Store](https://apps.apple.com/us/app/the-noire-places/id6761523428) | [Android – Play Store](https://play.google.com/store/apps/details?id=com.annadat.tnp)  
   **Tech Stack:** Flutter, Firebase, REST API  
 TNP Beauty is an all-in-one platform for the Afro diaspora that seamlessly connects users with at-home beauty services and authentic hair, skin, and beauty products from verified local and international vendors.
+
+- 🎉 [Presentini | iOS – App Store](https://apps.apple.com/us/app/presentini/id6770782530) | [Android – Play Store](https://play.google.com/store/apps/details?id=com.savvymyles.involved.involved)  
+  **Tech Stack:** Flutter, Firebase, REST API  
+  Presentini is a city discovery platform that helps users find the best local events, exclusive specials, and unforgettable experiences. Whether you're a resident or a visitor, Presentini makes it easy to explore what's happening nearby and discover memorable moments wherever you are.
   
 - 📂 [All Projects](https://github.com/mrswapon?tab=repositories)
 
