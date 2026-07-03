@@ -66,7 +66,7 @@ TNP Beauty is an all-in-one platform for the Afro diaspora that seamlessly conne
   **Tech Stack:** Flutter, Firebase, REST API  
   Presentini is a city discovery platform that helps users find the best local events, exclusive specials, and unforgettable experiences. Whether you're a resident or a visitor, Presentini makes it easy to explore what's happening nearby and discover memorable moments wherever you are.
 
-  - 💼 [HireHub JA | iOS – App Store](https://apps.apple.com/us/app/hirehub-ja/id6768231702) | [Android – Play Store](https://play.google.com/store/apps/details?id=com.hirehubja.app)  
+- 💼 [HireHub JA | iOS – App Store](https://apps.apple.com/us/app/hirehub-ja/id6768231702) | [Android – Play Store](https://play.google.com/store/apps/details?id=com.hirehubja.app)  
   **Tech Stack:** Flutter, Firebase, REST API, Push Notifications  
   HireHub JA is a modern job search and hiring platform built for the Jamaican market. It connects job seekers with employers through a fast, intuitive, and reliable experience, featuring job discovery, employer recruitment, user profiles, job applications, and real-time notifications to streamline the hiring process.
   
