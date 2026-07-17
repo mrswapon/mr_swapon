@@ -74,7 +74,14 @@ TNP Beauty is an all-in-one platform for the Afro diaspora that seamlessly conne
 
 ---
 
-### 📄 Resume & Experience
+---
+
+### 📄 Resume & Portfolio
+
+<p align="left">
+  🌍 <a href="https://mrswapon.vercel.app/" target="_blank">
+  Visit My Portfolio</a>
+</p>
 
 <p align="left">
   📑 <a href="https://drive.google.com/file/d/1gecwXFXZ7INZKKw6NWBl6nlPwRcIR4Li/view?usp=sharing" target="_blank">
